@@ -15,11 +15,6 @@ I'm an enthusiastic mobile application developer specializing in Flutter and Rea
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m-zeeshanHaider&limit=5&theme=jolly&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-zeeshanHaider/m-zeeshanHaider/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-zeeshanHaider/m-zeeshanHaider/output/github-snake.svg" />
