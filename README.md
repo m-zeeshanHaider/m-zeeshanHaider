@@ -1,4 +1,5 @@
-https://media.licdn.com/dms/image/v2/D4D16AQGr5QtsMtp_uw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1679129864762?e=1755129600&v=beta&t=NM6VB6tMqJSdfuBcB-NBSIHPaWe09u8r98qsQb5Uk2U
+<img src="github_banner.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 I'm an enthusiastic mobile application developer specializing in Flutter and React Native frameworks. I have been building cross-platform applications for Android and iOS for over 2 years. I have expertise in integrating Firebase backend services, RESTful APIs, Google Maps, payment gateways, in-app purchases, and Google Mobile Ads. I'm committed to continuous learning and growth, ensuring I stay ahead in the rapidly evolving app development landscape.
 
