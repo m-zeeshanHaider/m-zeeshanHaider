@@ -13,7 +13,7 @@ I'm an enthusiastic mobile application developer specializing in Flutter and Rea
 ![](https://nirzak-streak-stats.vercel.app/?user=m-zeeshanHaider&theme=jolly&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=m-zeeshanHaider&limit=5&theme=jolly&combine_all_yearly_contributions=true)
