@@ -4,25 +4,25 @@
 
 ###
 
-<div align="center">
+<h3 align="left">💫  About Me</h3>
+
+###
+
+<p align="left">I'm a passionate & enthusiastic mobile application developer specializing in Flutter and React Native frameworks. I have been building cross-platform applications for Android and iOS for over 2 years. I have expertise in integrating Firebase backend services, RESTful APIs, Google Maps, payment gateways, in-app purchases, and Google Mobile Ads. I'm committed to continuous learning and growth, ensuring I stay ahead in the rapidly evolving app development landscape.</p>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/muhammad-zeeshan-haider-4b6503210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_zeeshan.haider_?igsh=NG1leWp4N2dqMGR5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
   </a>
-  <a href="m.zeeshanhaider999@gmail.com" target="_blank">
+  <a href="mail:m.zeeshanhaider999@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="50" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">💫  About Me</h3>
-
-###
-
-<p align="left">I'm a passionate & enthusiastic mobile application developer specializing in Flutter and React Native frameworks. I have been building cross-platform applications for Android and iOS for over 2 years. I have expertise in integrating Firebase backend services, RESTful APIs, Google Maps, payment gateways, in-app purchases, and Google Mobile Ads. I'm committed to continuous learning and growth, ensuring I stay ahead in the rapidly evolving app development landscape.</p>
 
 ###
 
@@ -94,14 +94,9 @@
 </div>
 
 ###
+<br>
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=m-zeeshanHaider&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
