@@ -5,8 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/muhammad-zeeshan-haider-4b6503210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_zeeshan.haider_?igsh=NG1leWp4N2dqMGR5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
+  </a>
+  <a href="m.zeeshanhaider999@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="50" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -20,6 +27,7 @@
 ###
 
 <br clear="both">
+<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -88,6 +96,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=m-zeeshanHaider&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
