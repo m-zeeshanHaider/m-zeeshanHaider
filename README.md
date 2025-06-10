@@ -15,9 +15,11 @@
 
 ###
 
-<p align="left">I'm a passionate mobile application developer specializing in Flutter and React Native frameworks. I have been building cross-platform applications for Android and iOS for over 2 years. I have expertise in integrating Firebase backend services, RESTful APIs, Google Maps, payment gateways, in-app purchases, and Google Mobile Ads. I'm committed to continuous learning and growth, ensuring I stay ahead in the rapidly evolving app development landscape.</p>
+<p align="left">I'm a passionate & enthusiastic mobile application developer specializing in Flutter and React Native frameworks. I have been building cross-platform applications for Android and iOS for over 2 years. I have expertise in integrating Firebase backend services, RESTful APIs, Google Maps, payment gateways, in-app purchases, and Google Mobile Ads. I'm committed to continuous learning and growth, ensuring I stay ahead in the rapidly evolving app development landscape.</p>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
