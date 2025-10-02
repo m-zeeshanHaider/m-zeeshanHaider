@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" alt="n8n logo"  />
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fn8n.io&psig=AOvVaw266BMdhjr7a3x04jFgR1GR&ust=1759505074035000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDt-KvphZADFQAAAAAdAAAAABAE" height="40" alt="n8n logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
