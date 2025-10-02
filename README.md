@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a passionate & enthusiastic mobile application developer specializing in Flutter and React Native frameworks. I have been building cross-platform applications for Android and iOS for over 2 years. I have expertise in integrating Firebase backend services, RESTful APIs, Google Maps, payment gateways, in-app purchases, and Google Mobile Ads. I'm committed to continuous learning and growth, ensuring I stay ahead in the rapidly evolving app development landscape.</p>
+<p align="left">As an automation developer, I specialize in creating and integrating sophisticated n8n workflows to build powerful, event-driven architectures that streamline operations and seamlessly connect disparate services. My focus is on designing systems that enhance application intelligence and automate complex tasks. This expertise in automation directly complements my primary role as a Flutter developer, where I architect and deliver full-featured, cross-platform mobile applications. With over two years of experience, I engineer seamless, scalable integrations with backend infrastructures and design engaging, intuitive user experiences from the ground up.</p>
 
 ###
 
@@ -32,6 +32,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="n8n logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -63,6 +65,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="homebrew logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
