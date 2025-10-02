@@ -15,11 +15,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammad-zeeshan-haider-4b6503210/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_zeeshan.haider_?igsh=NG1leWp4N2dqMGR5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="instagram logo" />
-  </a>
 </div>
 
 ###
