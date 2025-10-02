@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fn8n.io&psig=AOvVaw266BMdhjr7a3x04jFgR1GR&ust=1759505074035000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDt-KvphZADFQAAAAAdAAAAABAE" height="40" alt="n8n logo"  />
+  <img src="https://images.apifyusercontent.com/M92B6mGwwCIHH3sbkvv8pnTMYDTBRQ7MdttOVQ0eyE0/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vSElNQUNaaE9uN1lKNzFkVHUtYWN0b3ItM3NJQzBENWV6Rm9RcEczbXotTTNpS21ldlJpcy1uOG4ucG5n.webp" height="40" alt="n8n logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
