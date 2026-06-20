@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">As an automation developer, I specialize in creating and integrating sophisticated n8n workflows to build powerful, event-driven architectures that streamline operations and seamlessly connect disparate services. My focus is on designing systems that enhance application intelligence and automate complex tasks. This expertise in automation directly complements my primary role as a Flutter developer, where I architect and deliver full-featured, cross-platform mobile applications. With over two years of experience, I engineer seamless, scalable integrations with backend infrastructures and design engaging, intuitive user experiences from the ground up.</p>
+<p align="left">Hi 👋 I'm Zeeshan Haider. I help businesses solve their critical challenges by designing and building custom n8n automation workflows. My focus is on making business operations smarter and more efficient. I specialize in creating thinking AI agents that don't just automate work, they understand context and make decisions. I build true intelligent systems that solve the real problem behind the task. Think of me as your AI-powered business strategist who happens to be an n8n expert.</p>
 
 ###
 
