@@ -2,23 +2,22 @@
 
 ###
 
-<h3 align="left">💫  About Me</h3>
+<h3 align="left">💫 About Me </h3>
 
 ###
 
-<div>
-  <video src="github_intro_video.mp4" width="100%" />
+<p align="left">Hi, I'm Zeeshan Haider. I'm a Software Engineer and Certified AI Professional. I build business automations and AI agents that take repetitive work off your plate entirely. When you bring me an automation request, I don’t just start building. I analyze the underlying business process first, then architect the solution. I develop true intelligent systems that can actually reason — from invoice automations that process PDFs and follow up on payments, to voice receptionists that book appointments. Tell me what's draining your business's time and money, and I'll deliver the right solution to you. I don't just build automations - I build your competitive advantage in this AI era.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-zeeshan-haider-4b6503210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
 </div>
 
-<!--
-  ALTERNATIVE (YouTube/Loom): GitHub can't embed external players, so use a clickable thumbnail:
-
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="100%" alt="Watch my intro video" />
-  </a>
--->
-
 ###
+
+https://github.com/user-attachments/assets/1f4f8fbf-a91d-4626-bc3e-ae9ca3431c32
 
 <br clear="both">
 <br>
@@ -36,17 +35,15 @@
   <img src="https://cdn.simpleicons.org/make" height="40" alt="make logo" />
   <img width="12" />
   <!-- AI models & agent frameworks -->
-  <img src="https://cdn.simpleicons.org/chatgpt" height="40" alt="openai logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="anthropic logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="gemini logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo" />
   <img width="12" />
-  <!-- Vector DBs & data -->
-  <img src="https://cdn.simpleicons.org/pinecone" height="40" alt="pinecone logo" />
+  <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph logo" />
   <img width="12" />
+  <!-- Vector DBs & data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
@@ -56,11 +53,11 @@
   <img src="https://cdn.simpleicons.org/googlesheets" height="40" alt="google sheets logo" />
   <img width="12" />
   <!-- Business apps & communication -->
+  <img src="https://cdn.simpleicons.org/google" height="40" alt="google logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/hubspot" height="40" alt="hubspot logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/notion" height="40" alt="notion logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/slack" height="40" alt="slack logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gmail" height="40" alt="gmail logo" />
   <img width="12" />
@@ -68,16 +65,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/telegram" height="40" alt="telegram logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/twilio" height="40" alt="twilio logo" />
-  <img width="12" />
   <!-- APIs, scripting & deployment -->
   <img src="https://cdn.simpleicons.org/postman" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
