@@ -14,7 +14,7 @@
        https://github.com/user-attachments/assets/... link.
     3. Replace YOUR_VIDEO_URL below with that link (or just keep the pasted link on its own line).
   -->
-  <video src="github_intro_video.mp4" width="100%" controls muted playsinline>
+  <video src="github_intro_video.mp4" width="100%" height="100%" controls muted playsinline>
     Your browser does not support the video tag.
   </video>
 </div>
