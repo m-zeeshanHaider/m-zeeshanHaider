@@ -17,11 +17,6 @@
 
 ###
 
-https://github.com/user-attachments/assets/1f4f8fbf-a91d-4626-bc3e-ae9ca3431c32
-
-<br clear="both">
-<br>
-
 <h3 align="left">🛠️ Technologies </h3>
 
 ###
@@ -74,9 +69,6 @@ https://github.com/user-attachments/assets/1f4f8fbf-a91d-4626-bc3e-ae9ca3431c32
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
-
-###
-<br>
 
 ###
 
