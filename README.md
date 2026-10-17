@@ -6,7 +6,9 @@
 
 ###
 
-<video src="github_intro_video.mp4" width="100%" />
+<div>
+  <video src="github_intro_video.mp4" width="100%" />
+</div>
 
 <!--
   ALTERNATIVE (YouTube/Loom): GitHub can't embed external players, so use a clickable thumbnail:
