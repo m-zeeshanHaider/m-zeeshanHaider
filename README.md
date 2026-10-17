@@ -1,86 +1,94 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnlqNTE5eW42a29uamFrNXY4NDdwbGFjYmJsbGtsbDdsdXBmc2c2dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MZHfxn7EguMSwPXZfI/giphy.gif"  />
-
 ###
 
 <h3 align="left">💫  About Me</h3>
 
 ###
 
-<p align="left">Hi 👋 I'm Zeeshan Haider. I help businesses solve their critical challenges by designing and building custom n8n automation workflows. My focus is on making business operations smarter and more efficient. I specialize in creating thinking AI agents that don't just automate work, they understand context and make decisions. I build true intelligent systems that solve the real problem behind the task. Think of me as your AI-powered business strategist who happens to be an n8n expert.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/muhammad-zeeshan-haider-4b6503210/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
+<div align="center">
+  <!--
+    HOW TO ADD YOUR VIDEO (GitHub-hosted, plays inline):
+    1. Edit this README on github.com (pencil icon).
+    2. Drag & drop your .mp4 into the editor. GitHub uploads it and inserts a
+       https://github.com/user-attachments/assets/... link.
+    3. Replace YOUR_VIDEO_URL below with that link (or just keep the pasted link on its own line).
+  -->
+  <video src="github_intro_video.mp4" width="100%" controls muted playsinline>
+    Your browser does not support the video tag.
+  </video>
 </div>
+
+<!--
+  ALTERNATIVE (YouTube/Loom): GitHub can't embed external players, so use a clickable thumbnail:
+
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="100%" alt="Watch my intro video" />
+  </a>
+-->
 
 ###
 
 <br clear="both">
 <br>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠️ Technologies </h3>
 
 ###
 
 <div align="left">
-  <img src="https://images.apifyusercontent.com/M92B6mGwwCIHH3sbkvv8pnTMYDTBRQ7MdttOVQ0eyE0/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vSElNQUNaaE9uN1lKNzFkVHUtYWN0b3ItM3NJQzBENWV6Rm9RcEczbXotTTNpS21ldlJpcy1uOG4ucG5n.webp" height="40" alt="n8n logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <!-- Automation platforms -->
+  <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.simpleicons.org/zapier" height="40" alt="zapier logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/make" height="40" alt="make logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <!-- AI models & agent frameworks -->
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="openai logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="anthropic logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="gemini logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <!-- Vector DBs & data -->
+  <img src="https://cdn.simpleicons.org/pinecone" height="40" alt="pinecone logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/airtable" height="40" alt="airtable logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/googlesheets" height="40" alt="google sheets logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <!-- Business apps & communication -->
+  <img src="https://cdn.simpleicons.org/hubspot" height="40" alt="hubspot logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/notion" height="40" alt="notion logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/slack" height="40" alt="slack logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/gmail" height="40" alt="gmail logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/whatsapp" height="40" alt="whatsapp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/telegram" height="40" alt="telegram logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/twilio" height="40" alt="twilio logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <!-- APIs, scripting & deployment -->
+  <img src="https://cdn.simpleicons.org/postman" height="40" alt="postman logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
 ###
