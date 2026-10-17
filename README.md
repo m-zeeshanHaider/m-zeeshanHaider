@@ -6,18 +6,7 @@
 
 ###
 
-<div align="center">
-  <!--
-    HOW TO ADD YOUR VIDEO (GitHub-hosted, plays inline):
-    1. Edit this README on github.com (pencil icon).
-    2. Drag & drop your .mp4 into the editor. GitHub uploads it and inserts a
-       https://github.com/user-attachments/assets/... link.
-    3. Replace YOUR_VIDEO_URL below with that link (or just keep the pasted link on its own line).
-  -->
-  <video src="github_intro_video.mp4" width="100%" height="100%" controls muted playsinline>
-    Your browser does not support the video tag.
-  </video>
-</div>
+<video src="github_intro_video.mp4" width="100%" />
 
 <!--
   ALTERNATIVE (YouTube/Loom): GitHub can't embed external players, so use a clickable thumbnail:
@@ -45,7 +34,7 @@
   <img src="https://cdn.simpleicons.org/make" height="40" alt="make logo" />
   <img width="12" />
   <!-- AI models & agent frameworks -->
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="openai logo" />
+  <img src="https://cdn.simpleicons.org/chatgpt" height="40" alt="openai logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="anthropic logo" />
   <img width="12" />
