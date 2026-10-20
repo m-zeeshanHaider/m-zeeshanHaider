@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I'm Zeeshan Haider. I'm a Software Engineer and Certified AI Professional. I build business automations and AI agents that take repetitive work off your plate entirely. When you bring me an automation request, I don’t just start building. I analyze the underlying business process first, then architect the solution. I develop true intelligent systems that can actually reason — from invoice automations that process PDFs and follow up on payments, to voice receptionists that book appointments. Tell me what's draining your business's time and money, and I'll deliver the right solution to you. I don't just build automations - I build your competitive advantage in this AI era.</p>
+<p align="left">Hi, I'm Zeeshan Haider. I'm a Software Engineer and Certified AI Professional. I build business automations and AI agents that take repetitive work off your plate entirely. I develop truly intelligent systems that can actually reason: from invoice automations that process PDFs and follow up on payments, to voice receptionists that book appointments.</p>
 
 ###
 
